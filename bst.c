@@ -1,14 +1,3 @@
-/**
- * -------------------------------------
- * @bst.c bst.c
- * BST Source Code File
- * -------------------------------------
- * @author Isabel Katai, 169020649, kata0649@mylaurier.ca
- *
- * @version 2024-03-01
- *
- * -------------------------------------
- */
 
 #include "bst.h"
 #include <stdio.h>
