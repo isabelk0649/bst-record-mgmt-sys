@@ -1,10 +1,3 @@
-/*
- -------------------------------------------------------
- About:    auxiliary queue and stack DS API
- Author:   HBF
- Version:  2024-01-27
- -------------------------------------------------------
- */
 
 #ifndef QUEUE_STACK_H
 #define QUEUE_STACK_H
