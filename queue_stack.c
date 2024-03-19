@@ -1,10 +1,3 @@
-/*
- -------------------------------------------------------
- About:    queue and stack DS implementation
- Author:   HBF
- Version:  2024-01-27
- -------------------------------------------------------
- */
 
 #include <stdio.h>
 #include <stdlib.h>
