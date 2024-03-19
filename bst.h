@@ -1,14 +1,3 @@
-/**
- * -------------------------------------
- * @bst.h  bst.h
- * BST Header Code File
- * -------------------------------------
- * @author Isabel Katai, 169020649, kata0649@mylaurier.ca
- *
- * @version 2024-03-01
- *
- * -------------------------------------
- */
 
 #ifndef BST_H
 #define BST_H
