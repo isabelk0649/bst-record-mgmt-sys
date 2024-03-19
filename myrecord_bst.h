@@ -1,14 +1,3 @@
-/**
- * -------------------------------------
- * @myrecord_bst.h  myrecord_bst.h
- * Assignment 7 Header File
- * -------------------------------------
- * @author Isabel Katai, 169020649, kata0649@mylaurier.ca
- *
- * @version 2024-03-01
- *
- * -------------------------------------
- */
 
 #ifndef MYRECORD_BST_H
 #define MYRECORD_BST_H
