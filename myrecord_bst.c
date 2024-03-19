@@ -1,14 +1,3 @@
-/**
- * -------------------------------------
- * @myrecord_bst.c  myrecord_bst.c
- * Assignment 7 Source Code File
- * -------------------------------------
- * @author Isabel Katai, 169020649, kata0649@mylaurier.ca
- *
- * @version 2024-03-01
- *
- * -------------------------------------
- */
 
 #include <stdio.h>
 #include <math.h>
